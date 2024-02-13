@@ -6,7 +6,6 @@ Este projeto Fullstack tem como objetivo criar uma aplicação para o controle d
 
 ### FRONTEND
 
-Tecnologias Utilizadas no Frontend:
 No frontend, foi utilizado React para a criação de componentes e gerenciamento de estado. Além disso, foi utilizado Bootstrap para a estilização e facilitar o desenvolvimento.
 
 ### BACKEND
@@ -107,7 +106,7 @@ Lembre-se de que para as requisições diretas (como via Insomnia, Postman ou Cu
 
 # TELA SETOR
 
-![Imagem](imagens/card-setor.png.png)
+![Imagem](imagens/card-setor.png)
 
 # TELAS EQUIPAMENTOS
 
