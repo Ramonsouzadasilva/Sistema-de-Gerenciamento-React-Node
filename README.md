@@ -111,7 +111,7 @@ Lembre-se de que para as requisições diretas (como via Insomnia, Postman ou Cu
 
 # TELAS EQUIPAMENTOS
 
-![Imagem](imagens/cadastro-equipamento.png=200x)
+![Imagem](imagens/cadastro-equipamento.png=200px)
 ![Imagem](imagens/select-equipamento.png=250x)
 ![Imagem](imagens/tabela-equipamentos.png)
 ![Imagem](imagens/busca-equipamento.png)
